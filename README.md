@@ -5,7 +5,7 @@ Using Rice University online platform CodeSkulptor, which runs Python programs o
 
 "Interstellar" - A tribute to Unity's iOS Arcade Game "One Infinite Tunnel"
 
-# Created by Richard He
+ Created by Richard He
 
  The game is an extended verison of Unity's iOS game "One Infinite Tunnel".
  Using simple controls, player can contorl the thrust of the spaceship using Space and missile shoots using Ctrl
