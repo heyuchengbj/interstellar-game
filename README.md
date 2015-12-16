@@ -27,8 +27,9 @@ Please copy the .py file to http://rice.codeskulptor.org to run!
    							Improvements on physics, contorls, game play, graphics
 								top and bottom line interactions
 								http://www.codeskulptor.org/#user40_8s2d8r6cTo_155.py
-   v0.92 - 19th November 2015: Third prototype: Game project #4 - Building a draft version
+   	v0.92 - 19th November 2015: Third prototype: Game project #4 - Building a draft version
    							Add Splash Screen, Artistic elements, different playing modes, 
 								refine physics and collision
 
-# Current Version (v1.01 - 3th December 2015)
+# Current Version 
+	v1.01 - 3th December 2015
