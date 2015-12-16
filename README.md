@@ -2,7 +2,7 @@
 Using Rice University online platform CodeSkulptor, which runs Python programs on any web browser, I build an arcade game "Interstellar".
 
 # IMPORTANT
-Please copy the .py file to http://rice.codeskulptor.org to run!
+Please copy the .py file to http://rice.codeskulptor.org/ to run!
 
 # Introduction
 "Interstellar" - A tribute to Unity's iOS Arcade Game "One Infinite Tunnel"
