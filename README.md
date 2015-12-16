@@ -13,10 +13,10 @@ Please copy the .py file to http://rice.codeskulptor.org to run!
  Using simple controls, player can contorl the thrust of the spaceship using Space and missile shoots using Ctrl
 
 # Current Development
- -Adding multiplayer mode
- -Create curved top and bottom line
- -Adding Artistic elements(Images, sounds)
- -Different playing modes(shoot rocks, collect golds, etc.)
+ -Adding multiplayer mode	
+ -Create curved top and bottom line	
+ -Adding Artistic elements(Images, sounds)	
+ -Different playing modes(shoot rocks, collect golds, etc.)	
 
  Game Pitch Sheet: https://dl.dropbox.com/s/m0a9ippp9jsi5de/Pitch_FINAL.compressed.pdf?dl=0
 
